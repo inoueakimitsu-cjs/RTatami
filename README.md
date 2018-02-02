@@ -2,7 +2,7 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/inoueakimitsu/RTatami.svg?branch=master)](https://travis-ci.org/inoueakimitsu/RTatami)
 
-RTatami is a converter of units from metric to Japanese `Jo`.
+RTatami is a converter of units from metric to Japanese [Jo](https://ja.wikipedia.org/wiki/%E7%95%B3_(%E5%8D%98%E4%BD%8D "Jo (unit)").
 
 ### Installation
 
@@ -25,7 +25,8 @@ launch_tatami()
 
 ### Screenshots
 
-<img src=https://github.com/inoueakimitsu/RTatami/blob/develop/images/conversion_scene.png.png width=19% />
+<img src=https://raw.githubusercontent.com/inoueakimitsu/RTatami/master/images/conversion_scene.png width=24.5% />
+
 
 ### Licensing
 
