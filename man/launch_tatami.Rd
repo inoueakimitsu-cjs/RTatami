@@ -5,10 +5,17 @@
 \alias{launch_tatami.default}
 \title{Launch the 'Tatatmi' app}
 \usage{
-launch_tatami(first, ..., rstudio = getOption("rtatami.rstudio"))
+launch_tatami(initial, ..., rstudio = getOption("rtatami.rstudio"))
 
-\method{launch_tatami}{default}(first, ...,
+\method{launch_tatami}{default}(initial, ...,
   rstudio = getOption(("rtatami.rstudio")))
+}
+\arguments{
+\item{initial}{initial value for square measure in metric.}
+
+\item{...}{settings for shiny::runApp.}
+
+\item{rstudio}{set TRUE if RStudio viwer is used. the default setting is FALSE.}
 }
 \description{
 Launch the 'Tatami' app in the default web browser.
