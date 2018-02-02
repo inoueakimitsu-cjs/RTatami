@@ -1,0 +1,15 @@
+Package: RTatami
+Type: Package
+Title: Conversion of units from metric to joh
+Version: 0.1.0
+Author: Akimitsu Inoue
+Maintainer: Akimitsu Inoue <akimitsu.inoue@gmail.com>
+Description: Convert units from metric to Japanese "Joh" for calculating house costs in Japan.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+  testthat
+Imports:
+  shiny
+RoxygenNote: 6.0.1
