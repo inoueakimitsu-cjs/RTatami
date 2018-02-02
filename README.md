@@ -6,7 +6,7 @@ RTatami is a converter of units from metric to Japanese [Jo](https://ja.wikipedi
 
 ### Installation
 
-Install from GitHub (requires [devtools]()https://github.com/hadley/devtools) package):
+Install from GitHub (requires [devtools](https://github.com/hadley/devtools) package):
 
 ```r
 if (!require("devtools"))
