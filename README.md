@@ -9,8 +9,8 @@ RTatami is a converter of units from metric to Japanese 'Jo'.
 Install from GitHub (requires [devtools](https://github.com/hadley/devtools) package):
 
 ```r
-if (!require("devtools"))
-  install.packages("devtools")
+if (!require("devtools")) install.packages("devtools")
+library(devtools)
 devtools::install_github("inoueakimitsu/RTatami")
 ```
 
