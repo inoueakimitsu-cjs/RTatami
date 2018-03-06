@@ -4,6 +4,8 @@
 
 RTatami is a converter of units from metric to Japanese 'Jo'.
 
+This is an educational purpose project.
+
 ### Installation
 
 Install from GitHub (requires [devtools](https://github.com/hadley/devtools) package):
